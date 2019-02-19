@@ -4,7 +4,7 @@ El ejercicio 6 anterior te pide que crees una clase "Tiempo" y un programa de pr
 Investiga si ya existe en Java y Python una clase similar y adapta tus programas de 
 prueba para trabajar con esas clases.
 
-@author: d18lojij
+@author: Javier Lopera Jiménez
 '''
 
 from datetime import datetime,timedelta
